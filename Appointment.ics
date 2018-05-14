@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Benefits and Advantages\nBenefits of Solution:\n\n    Maximize sales by preparing your staff members for their appointments.\n    Reduces store operation costs through a streamlined scheduling process and improved staff efficiency.\n    Provides a better experience for customers through self-service scheduling.\n    Captures additional prospects by integrating with online ads.\n\n\nUnique advantages of Q‑nomy Appointment Scheduling:\n\n    The central server can be scaled up from a single point-of-service to any number of shops.\n    Built-in integration with Q-nomy's queue management software to manage the customer experience after check-in.\n    Complete flexibility to match any business requirement.\n
+DTEND:20180515T110000Z
+DTSTART:20180515T100000Z
+LOCATION:Skype 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Appointment 
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008062306C6261CA01000000000000000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
